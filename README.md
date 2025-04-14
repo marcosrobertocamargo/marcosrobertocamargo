@@ -1,5 +1,3 @@
----
-
 # 👋 Olá, eu sou o Marcos Roberto de Camargo
 
 🔭 Atualmente sou **professor da rede pública de ensino**, atuando na área de **Artes Visuais** em Guararema e Suzano/SP. Também trabalho com **E-learning**, tutorias online e produção de conteúdos pedagógicos sob demanda, como TCCs, monografias, relatórios e outros documentos acadêmicos.
@@ -27,7 +25,7 @@
 
 📫 **Como entrar em contato comigo:**
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+<div align="center">
 <a href="https://www.linkedin.com/in/marcosrobertocamargo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/kamargomarcos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "mailto:marcosrobertcamargo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -39,7 +37,7 @@
 
 ## 🚀 Ferramentas e Tecnologias
 
-<div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
+<div align="center" style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
@@ -51,7 +49,7 @@
 
 ## 📘 Estou aprendendo
 
-<div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
+<div align="center" style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
@@ -62,15 +60,13 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-camargo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-camargo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
----
 
 > "Educar é semear com sabedoria e colher com paciência."
 
 🧠✨ Obrigado por visitar meu perfil!
-
